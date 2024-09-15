@@ -1,9 +1,29 @@
-## End to End Machine Learning Project
+## End-to-End Machine Learning Project: House Price Prediction
 
-Project workflow
+## Overview
+This project demonstrates an end-to-end MLOps pipeline for a house price prediction model using the Ames Housing dataset. The pipeline covers data ingestion, preprocessing, model training, deployment, monitoring, and CI/CD automation.
 
-1. Set up the github
-2. Create a new environment
-3. Create setup.py file
-4. Create requirements.txt file
-5. Create the src folder and build the rest of the project file structure
+## Project Structure
+
+. data/
+    . raw/
+    . processed/
+. src/
+    . data_ingestion.py
+    . data_preprocessing.py
+    . model_training.py
+    . model_deployment.py
+    . requirement.txt
+    . Dockerfile
+. notebooks/
+    . data_exploration.ipynb
+    . model_training.ipynb
+    . deployment.ipynb
+. .github/
+    .workflows/
+        .ci_cd_pipeline.yml
+. monitoring/
+    .prometheus_config.yml
+    .grafana_dashboard.jason
+. docker-compose.yml
+. README.md
