@@ -1,6 +1,7 @@
-## End-to-End Machine Learning Project: House Price Prediction
+## End-to-End Machine Learning Project: Bank Customer Churn Prediction
 
 ## Overview
+
 This project demonstrates an end-to-end MLOps pipeline for a house price prediction model using the Ames Housing dataset. The pipeline covers data ingestion, preprocessing, model training, deployment, monitoring, and CI/CD automation.
 
 ## Project Structure
