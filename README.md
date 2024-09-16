@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project demonstrates an end-to-end MLOps pipeline for a house price prediction model using the Ames Housing dataset. The pipeline covers data ingestion, preprocessing, model training, deployment, monitoring, and CI/CD automation.
+This project demonstrates an end-to-end MLOps pipeline for Bank Customer Churn Prediction. The main Aim of this projectis to predict whether a person will leave the bank services i.e. if he or she will churn or not using ML techniques. The pipeline covers data ingestion, preprocessing, model training, deployment, monitoring, and CI/CD automation.
 
 ## Project Structure
 
